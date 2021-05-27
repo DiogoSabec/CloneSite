@@ -1,0 +1,25 @@
+body {
+    margin: 0.4% 8.6%;
+}
+#header {
+    background-color: #ff6404;
+    padding: 3.5px;
+}
+main {
+    background-color: #f8f4ec;
+}
+a {
+    color:black;
+}
+li{
+    color:#c4c4c4;
+}
+.menu {
+    display: inline;
+}
+.links {
+    margin: 0 0 0 30px;
+}
+ol{
+    margin: 10px;
+}
