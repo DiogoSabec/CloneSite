@@ -44,7 +44,7 @@ li span a {
 #y {
     border: 1px solid white;
     color: white;
-    padding: 1px 5px 1px 5px
+    padding: 1px 5px 1px 5px;
 }
  hr {
         border: none;
@@ -53,12 +53,20 @@ li span a {
         background-color:  #ff6404; 
     }
 #more {
-    margin: 0 0 0 60px
+    margin: 0 0 0 60px;
 }
 #footer {
     margin: auto;
-    width: 50%;
-    font-size: 12px;
+    padding: 0 30% 0 30%;
   }
 #footer a {
+    width: 100%;
+    font-size: 12px;
+}
+#search {
+    margin: 0 37%;
+    width: auto;
+}
+#div {
+    width: 0 100%
 }
