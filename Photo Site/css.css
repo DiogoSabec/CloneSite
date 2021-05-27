@@ -1,0 +1,13 @@
+img{
+    width: 30%;
+    margin: 1.66666666666666666667%;
+}
+nav {
+    text-transform: uppercase;
+    border-bottom: 2px solid grey;
+    width: 30%;
+    margin-left: 1.66666666666666666667%;
+    padding: 0.1em 0;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 40px;
+}
